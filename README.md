@@ -13,4 +13,6 @@ This project is a simple GUI-oriented application written in C# and WinForms. Th
 - option to save the modified picture
 
 ## Usage
+
+![](example_image.PNG)
 The application should be used in Visual Studio. User interface is simple, and all the action are accomplished by using specific buttons.
